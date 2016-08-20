@@ -5,7 +5,7 @@
 //#define p_0 1.5
 #define c_0 (299.79)
 
-double B_data[200], r_data[200];
+double B_data[500], r_data[500];
 double p_0;
 int max_data = 0;
 
